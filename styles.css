@@ -113,9 +113,10 @@ section ul {
 }
 
 div img {
+    width: 800px;
+    height: 600px;
     display: block;
-    margin: auto;
-    align-items: center;
+    margin: 0 auto;
     border-radius: 5px;
     margin-top: 5rem;
     box-shadow: var(--box-shadow);
@@ -124,7 +125,7 @@ div img {
 div p {
     text-align: center;
     margin-top: 0.5rem;
-    font-size: 1rem;
+    font-size: 1.6rem;
 }
 
 div a {
